@@ -7,3 +7,5 @@ Today i will be learning git.
 
 Add changes on the file.
 update me
+
+new modification to test conflict
